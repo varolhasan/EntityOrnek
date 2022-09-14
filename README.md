@@ -17,3 +17,5 @@ Güncelle, Kaydet, Sil butonları dersler ve öğrenci groupboxlarındaki id ve 
 
 Prosedür kullanımını MS SQL Server kısmında bir procedure oluşturarak VS'da kullandım. Projeye procedure dahil etmeyi (update model from db procedure)
 
+![Ekran Görüntüsü (1287)](https://user-images.githubusercontent.com/100023946/190030352-20b43124-7761-4b8b-9902-64d1382bb16e.png)
+
