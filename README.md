@@ -19,3 +19,4 @@ Prosedür kullanımını MS SQL Server kısmında bir procedure oluşturarak VS'
 
 ![Ekran Görüntüsü (1287)](https://user-images.githubusercontent.com/100023946/190030352-20b43124-7761-4b8b-9902-64d1382bb16e.png)
 
+Form2'de Form1 gibi sorgular yaptık. 
